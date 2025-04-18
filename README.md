@@ -58,3 +58,4 @@ ROC-AUC Score: 0.97
 ```bash
 git clone https://github.com/your-username/predict-credit-card-scam.git
 cd predict-credit-card-scam
+![Screenshot 2025-04-18 143706](https://github.com/user-attachments/assets/64f2be5e-99eb-455c-bc88-531a8c2f21c2)
