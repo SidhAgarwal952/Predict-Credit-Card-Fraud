@@ -52,7 +52,8 @@ Classification Report:
 
 ROC-AUC Score: 0.97
 
-## 🚀 Getting Started
+## 🚀 Getting Started![Screenshot 2025-04-18 143706](https://github.com/user-attachments/assets/bf7e6e90-9e9b-4e6a-9c36-43de03de69d5)
+
 
 ### 1. Clone the repository
 ```bash
