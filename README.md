@@ -39,6 +39,18 @@ This project focuses on building a machine learning model to identify and predic
   - ROC-AUC Score
 
 ---
+RESULT:
+
+Confusion Matrix:
+[[56851    25]
+ [   33    54]]
+
+Classification Report:
+              precision    recall  f1-score   support
+         0       1.00      1.00      1.00     56876
+         1       0.68      0.62      0.65        87
+
+ROC-AUC Score: 0.97
 
 ## 🚀 Getting Started
 
